@@ -11,5 +11,5 @@ echo "- Start Block Producer in Screen"
 screen -d -S "b" -m ./start-block-producing.sh
 
 echo "- Start Watch-dog"
-screen -d -S "b" -m ./stuck_monitor.sh
+screen -d -S "s" -m ./stuck_monitor.sh
 
