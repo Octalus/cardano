@@ -10,7 +10,6 @@
 #  works, and how to interact with everything.
 #
 ### CONFIGURATION
-export PATH=$PATH:/home/hammer/Cardano/jormungandr-v0.8
 LAST_BLOCK=""
 RESTART_GT=600
 
