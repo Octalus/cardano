@@ -2,5 +2,6 @@
 "name": "OctasPool",
 "description": "Octa's Performance Pool",
 "ticker": "OCTAS",
-"homepage": "https://octaluso.dyndns.org"
+"homepage": "https://octaluso.dyndns.org",
+"extended": "https://github.com/Octalus/cardano/blob/master/pe.json"
 }
