@@ -2,5 +2,10 @@
   "itn": {
     "owner": "ed25519_pk1c4weav908080rtl2tvk4v4vfau25cermg88pypjpfar62qfcr4qqaam0tg",
     "witness": "ed25519_sig17ra2d2ue0ftwwjfats4g94r7c8nrqh3n39cxldx9acgu4h2c3syjrtdalt8hahnl3er49xwp5s587xdu2pntrlgfyl4qwlxetdhvgrcslrvfe"
-  }
+  },
+  "adapools": {
+        "url_png_icon_64x64": "http://octaluso.dyndns.org/images/octalus_64x64.png",
+        "url_png_logo": "http://octaluso.dyndns.org/images/octalus.png",
+        "location": "Dublin, Ireland"
+    }
 }
