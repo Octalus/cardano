@@ -8,7 +8,8 @@
         "url_png_logo": "http://octaluso.dyndns.org/images/octalus.png",
         "location": "Dublin, Ireland",
         "social": {
-            "telegram_handle": "octas_pool"
+            "telegram_handle": "octas_pool",
+            "github_handle" : "Octalus"
         }
     }
 }
