@@ -6,6 +6,9 @@
   "adapools": {
         "url_png_icon_64x64": "http://octaluso.dyndns.org/images/octalus_64x64.png",
         "url_png_logo": "http://octaluso.dyndns.org/images/octalus.png",
-        "location": "Dublin, Ireland"
+        "location": "Dublin, Ireland",
+        "social": {
+            "telegram_handle": "octas_pool"
+        }
     }
 }
