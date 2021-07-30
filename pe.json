@@ -16,5 +16,19 @@
   "when-satured-then-recommend": {
         "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
         "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+  },
+  "votes": {
+		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+			"vote": "Yes"
+		},
+		"https://spovotes.com/votes/remove-min-fee/": {
+			"vote": "No"
+		},
+    "https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes"
+		},
+    "https://cips.cardano.org/cips/cip7/": {
+			"vote": "No"
+		}
   }
 }
