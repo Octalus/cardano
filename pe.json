@@ -4,8 +4,8 @@
     "witness": "ed25519_sig17ra2d2ue0ftwwjfats4g94r7c8nrqh3n39cxldx9acgu4h2c3syjrtdalt8hahnl3er49xwp5s587xdu2pntrlgfyl4qwlxetdhvgrcslrvfe"
   },
   "info": {
-        "url_png_icon_64x64": "http://octaluso.dyndns.org/images/octalus_64x64.png",
-        "url_png_logo": "http://octaluso.dyndns.org/images/octalus.png",
+        "url_png_icon_64x64": "https://octaluso.dyndns.org/images/octalus_64x64.png",
+        "url_png_logo": "https://octaluso.dyndns.org/images/octalus.png",
         "location": "Dublin, Ireland",
         "social": {
             "twitter_handle": "marcus_hamm3r",
