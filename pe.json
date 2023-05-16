@@ -11,7 +11,8 @@
             "twitter_handle": "marcus_hamm3r",
             "telegram_handle": "octas_pool",
             "github_handle" : "Octalus"
-        }
+        },
+	"verification_cexplorer" : "775acb33b86f79f2f8"
   },
   "when-satured-then-recommend": {
         "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
