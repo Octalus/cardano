@@ -73,8 +73,8 @@
     "givenName": "OCTAS DRep",
     "image": {
       "@type": "ImageObject",
-      "contentUrl": "https://raw.githubusercontent.com/Octalus/cardano/master/octalus.jpg",
-      "sha256": "573edb178e85935fae267798ff75272d0509ebff9c19bbcc1af4da0ac9e8503d"
+      "contentUrl": "https://raw.githubusercontent.com/Octalus/cardano/master/profile_pic.jpg",
+      "sha256": "4e271c45172fed7d6da2990e60577296eade3f5e993c96cdc703b919fc2595c6"
     }
   },
   "authors": []
