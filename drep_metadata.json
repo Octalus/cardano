@@ -73,7 +73,7 @@
     "givenName": "OCTAS DRep",
     "image": {
       "@type": "ImageObject",
-      "contentUrl": "https://octaluso.dyndns.org/images/octalus.jpg",
+      "contentUrl": "https://raw.githubusercontent.com/Octalus/cardano/master/octalus.jpg",
       "sha256": "573edb178e85935fae267798ff75272d0509ebff9c19bbcc1af4da0ac9e8503d"
     }
   },
