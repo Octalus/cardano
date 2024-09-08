@@ -73,8 +73,8 @@
     "givenName": "OCTAS DRep",
     "image": {
       "@type": "ImageObject",
-      "contentUrl": "https://octaluso.dyndns.org/images/octalus.png",
-      "sha256": "dd7ad414e8e527583206abf4b14d6a9487cbfb29a232670a2f103c1e1df62000"
+      "contentUrl": "https://octaluso.dyndns.org/images/octalus.jpg",
+      "sha256": "573edb178e85935fae267798ff75272d0509ebff9c19bbcc1af4da0ac9e8503d"
     }
   },
   "authors": []
